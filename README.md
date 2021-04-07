@@ -1,2 +1,2 @@
 # Rust Declarative Macros
-This is an implkementation of the standard library's `vec!` macro, taken from [this]https://www.youtube.com/watch?v=q6paRBbLgNw&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&index=3) stream by @jonhoo.
+This is an implementation of the standard library's `vec!` macro, taken from [this]https://www.youtube.com/watch?v=q6paRBbLgNw&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&index=3) stream by @jonhoo.
